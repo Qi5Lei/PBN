@@ -1,0 +1,6 @@
+
+dpython:S2208"GImport only needed names or import the module and then use its members.(ãÇ‡ùÿÿÿÿ
+dpython:S2208"GImport only needed names or import the module and then use its members.(‹²¼şÿÿÿÿ
+Špython:S101v"nRename class "FrozenBatchNorm2d_v2" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(°ÑÁâÿÿÿÿÿ
+bpython:S6711­"DUse a "numpy.random.Generator" here instead of this legacy function.(Ü£˜üÿÿÿÿ
+>python:S1481ª"%Remove the unused local variable "k".(éù

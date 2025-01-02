@@ -1,0 +1,11 @@
+INPUT:
+  SIZE: (224, 224)
+  TRANSFORMS: ["random_resized_crop", "random_flip", "normalize"]
+
+DATASET:
+  NAME: "ImageNet_DG"
+
+MODEL:
+  BACKBONE:
+    NAME: "resnet50"
+    PRETRAINED: True

@@ -1,0 +1,13 @@
+
+rpython:S1192®"YDefine a constant instead of duplicating this literal 'shape of feature matrix:' 7 times.(×¢è­
+qpython:S1192·"SDefine a constant instead of duplicating this literal 'File saved to "{}"' 7 times.(›½ñµùÿÿÿÿ
+}python:S101"fRename class "Vanilla2_pbn" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ããÅµ
+Hpython:S5806 "+Rename this variable; it shadows a builtin.(ÏÖ¨ïùÿÿÿÿ
+Hpython:S58061"+Rename this variable; it shadows a builtin.(ˆ²‘£üÿÿÿÿ
+;python:S125Q"Remove this commented out code.(—›“ıÿÿÿÿ
+Ipython:S1481Œ"+Replace unused local variable "H" with "_".(³˜«÷ûÿÿÿÿ
+Gpython:S1481t"*Remove the unused local variable "impath".(•†¢Ûÿÿÿÿÿ
+Ipython:S1481Œ"+Replace unused local variable "W" with "_".(³˜«÷ûÿÿÿÿ
+Hpython:S5806q"+Rename this variable; it shadows a builtin.(»ùâìúÿÿÿÿ
+<python:S125"Remove this commented out code.(ªè†¹úÿÿÿÿ
+7python:S125œ"Remove this commented out code.(è–íÓ

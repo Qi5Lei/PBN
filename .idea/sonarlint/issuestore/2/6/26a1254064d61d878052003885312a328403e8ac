@@ -1,0 +1,13 @@
+
+hpython:S1192æ"JDefine a constant instead of duplicating this literal "# classes" 3 times.(Ú£¿¢üÿÿÿÿ
+cpython:S1192ç"JDefine a constant instead of duplicating this literal "# train_x" 3 times.(ïµøÒ
+python:S1192ø"cDefine a constant instead of duplicating this literal "Cannot augment the image {} times " 3 times.(Ø†úşÿÿÿÿ
+cpython:S1192é"JDefine a constant instead of duplicating this literal "# train_u" 3 times.(Ïâ¦ï
+dpython:S1192ë"FDefine a constant instead of duplicating this literal "# val" 3 times.(„éŠ˜ùÿÿÿÿ
+‚python:S1192p"eDefine a constant instead of duplicating this literal "* Using custom transform for testing" 3 times.(½¼£˜øÿÿÿÿ
+†python:S101ñ"nRename class "DataManager_imagenet" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ñŞÏ½
+€python:S101‹"hRename class "DataManager_sf" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÌÑØœ
+Cpython:S1481­"%Remove the unused local variable "k".(‹ğÇøÿÿÿÿ
+”python:S101·"wRename class "DatasetWrapper_get_imgFeature" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(•ò÷ øÿÿÿÿ
+Cpython:S1481ú"%Remove the unused local variable "k".(‹ğÇøÿÿÿÿ
+ˆpython:S101„"kRename class "DatasetWrapper_sf" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(çÈå‡şÿÿÿÿ

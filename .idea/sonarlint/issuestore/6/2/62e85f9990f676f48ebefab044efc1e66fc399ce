@@ -1,0 +1,10 @@
+
+ƒpython:S101"gRename class "_StochNorm_v2" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ú´œÆøÿÿÿÿ
+apython:S6711D"DUse a "numpy.random.Generator" here instead of this legacy function.(±ÚÆ¥ÿÿÿÿÿ
+\python:S6711J"DUse a "numpy.random.Generator" here instead of this legacy function.(Ñ°èß
+apython:S6711N"DUse a "numpy.random.Generator" here instead of this legacy function.(ëÖÄùÿÿÿÿ
+\python:S6711R"DUse a "numpy.random.Generator" here instead of this legacy function.(ýõÚ€
+Tpython:S112U">Replace this generic exception class with a more specific one.(¬×Î<
+„python:S101`"hRename class "StochNorm1d_v2" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¡Œ¤Ìüÿÿÿÿ
+…python:S101—"hRename class "StochNorm2d_v2" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(âŠ…üÿÿÿÿ
+…python:S101Ï"hRename class "StochNorm3d_v2" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(³³Éóùÿÿÿÿ

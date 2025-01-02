@@ -1,0 +1,15 @@
+
+ppython:S1192M"SDefine a constant instead of duplicating this literal 'the size of x != 4' 5 times.(àÁ¢Àÿÿÿÿÿ
+_python:S1192j"GDefine a constant instead of duplicating this literal 'h <= 4' 3 times.(úÇÃ¿
+dpython:S1192v"GDefine a constant instead of duplicating this literal 'w <= 4' 3 times.(£Ü•¥úÿÿÿÿ
+qpython:S1186="YAdd a nested comment explaining why this method is empty, or complete the implementation.(þÐ‘Ó
+\python:S6711Z"DUse a "numpy.random.Generator" here instead of this legacy function.(’ïå¦
+apython:S6711c"DUse a "numpy.random.Generator" here instead of this legacy function.(šŸ¤øÿÿÿÿ
+[python:S6711k"DUse a "numpy.random.Generator" here instead of this legacy function.(„Ç¬S
+\python:S6711w"DUse a "numpy.random.Generator" here instead of this legacy function.(¡éŒµ
+\python:S6711„"DUse a "numpy.random.Generator" here instead of this legacy function.(„Ç¬S
+]python:S6711…"DUse a "numpy.random.Generator" here instead of this legacy function.(¡éŒµ
+]python:S6711•"DUse a "numpy.random.Generator" here instead of this legacy function.(‹ªõ”
+bpython:S6711–"DUse a "numpy.random.Generator" here instead of this legacy function.(ÅÕêºÿÿÿÿÿ
+bpython:S6711—"DUse a "numpy.random.Generator" here instead of this legacy function.(¤Ì«Ûøÿÿÿÿ
+bpython:S6711˜"DUse a "numpy.random.Generator" here instead of this legacy function.(öØ¤øÿÿÿÿ

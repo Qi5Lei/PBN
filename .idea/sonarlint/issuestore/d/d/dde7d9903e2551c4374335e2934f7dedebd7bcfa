@@ -1,0 +1,12 @@
+
+lpython:S117"URename this parameter "imageSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌßóÇ
+wpython:S1542("ZRename function "generateSmoothKernel" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾€¬øÿÿÿÿ
+Gpython:S16562"/Remove or correct this useless self-assignment.(ºŒÜÁ
+ipython:S1179"RRename this parameter "Images" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÅ›Ò
+wpython:S117:"`Rename this local variable "Images_freq_low" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ˆ £
+Œpython:S15429"tRename function "generateDataWithDifferentFrequencies_GrayScale" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÅ›Ò
+ipython:S117E"RRename this parameter "Images" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Ÿõ…
+}python:S117H"aRename this local variable "Images_freq_high" to match the regular expression ^[_a-z][a-z0-9_]*$.(Âœ¯Øùÿÿÿÿ
+wpython:S117G"`Rename this local variable "Images_freq_low" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ˆ £
+‹python:S1542E"sRename function "generateDataWithDifferentFrequencies_3Channel" to match the regular expression ^[a-z_][a-z0-9_]*$.(’Ÿõ…
+4python:S2772b"Remove this unneeded "pass".(ã‘Û¾
